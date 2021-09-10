@@ -4,10 +4,10 @@
     "previous": null,
     "results": [
       {
-        "id": "e3df2ecd-c239-472f-95e4-2b89b4f758002",
+        "id": "2e3df2ecd-c239-472f-95e4-2b89b4f758002",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/e3df2ecd-c239-472f-95e4-2b89b4f75800/",
         "slug": "sputnik-8k74ps-sputnik-1",
-        "name": "Sputnik 8K74PS | Sputnik 12",
+        "name": "2Sputnik 8K74PS | Sputnik 12",
         "status": {
           "id": 3,
           "name": "Launch Successful",
@@ -79,10 +79,10 @@
         "program": []
       },
       {
-        "id": "f8c9f344-a6df-4f30-873a-90fe3a7840b32",
+        "id": "2f8c9f344-a6df-4f30-873a-90fe3a7840b32",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/f8c9f344-a6df-4f30-873a-90fe3a7840b3/",
         "slug": "sputnik-8k74ps-sputnik-2",
-        "name": "Sputnik 8K74PS | Sputnik 22",
+        "name": "2Sputnik 8K74PS | Sputnik 22",
         "status": {
           "id": 3,
           "name": "Launch Successful",
@@ -154,10 +154,10 @@
         "program": []
       },
       {
-        "id": "535c1a09-97c8-4f96-bb64-6336d4bcb1fb2",
+        "id": "2535c1a09-97c8-4f96-bb64-6336d4bcb1fb2",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/535c1a09-97c8-4f96-bb64-6336d4bcb1fb/",
         "slug": "vanguard-vanguard",
-        "name": "Vanguard | Vanguard2",
+        "name": "2Vanguard | Vanguard2",
         "status": {
           "id": 4,
           "name": "Launch Failure",
@@ -229,10 +229,10 @@
         "program": []
       },
       {
-        "id": "1b9e28d0-c531-44b0-9b37-244e62a6d3f42",
+        "id": "21b9e28d0-c531-44b0-9b37-244e62a6d3f42",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/1b9e28d0-c531-44b0-9b37-244e62a6d3f4/",
         "slug": "juno-i-explorer-1",
-        "name": "Juno-I | Explorer 12",
+        "name": "2Juno-I | Explorer 12",
         "status": {
           "id": 3,
           "name": "Launch Successful",
@@ -304,10 +304,10 @@
         "program": []
       },
       {
-        "id": "48bc7deb-b2e1-46c2-ab63-0ce00fbd192b2",
+        "id": "248bc7deb-b2e1-46c2-ab63-0ce00fbd192b2",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/48bc7deb-b2e1-46c2-ab63-0ce00fbd192b/",
         "slug": "vanguard-vanguard-2",
-        "name": "Vanguard | Vanguard2",
+        "name": "2Vanguard | Vanguard2",
         "status": {
           "id": 4,
           "name": "Launch Failure",
@@ -379,10 +379,10 @@
         "program": []
       },
       {
-        "id": "896e8af6-d256-4a5b-ab15-2f25c84e90e32",
+        "id": "2896e8af6-d256-4a5b-ab15-2f25c84e90e32",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/896e8af6-d256-4a5b-ab15-2f25c84e90e3/",
         "slug": "juno-i-explorer-2",
-        "name": "Juno-I | Explorer 22",
+        "name": "2Juno-I | Explorer 22",
         "status": {
           "id": 4,
           "name": "Launch Failure",
@@ -454,10 +454,10 @@
         "program": []
       },
       {
-        "id": "74d39bb8-34a6-4a8b-8554-d2d3ec22aee62",
+        "id": "274d39bb8-34a6-4a8b-8554-d2d3ec22aee62",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/74d39bb8-34a6-4a8b-8554-d2d3ec22aee6/",
         "slug": "vanguard-vanguard-3",
-        "name": "Vanguard | Vanguard2",
+        "name": "2Vanguard | Vanguard2",
         "status": {
           "id": 3,
           "name": "Launch Successful",
@@ -529,10 +529,10 @@
         "program": []
       },
       {
-        "id": "b4e501ff-083c-47d6-9ff0-63ec1bf035c32",
+        "id": "b24e501ff-083c-47d6-9ff0-63ec1bf035c32",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/b4e501ff-083c-47d6-9ff0-63ec1bf035c3/",
         "slug": "juno-i-explorer-3",
-        "name": "Juno-I | Explorer 32",
+        "name": "2Juno-I | Explorer 32",
         "status": {
           "id": 3,
           "name": "Launch Successful",
@@ -604,10 +604,10 @@
         "program": []
       },
       {
-        "id": "59d2de37-4c22-495f-8718-4b22f5f34ab72",
+        "id": "259d2de37-4c22-495f-8718-4b22f5f34ab72",
         "url": "https://ll.thespacedevs.com/2.2.0/launch/59d2de37-4c22-495f-8718-4b22f5f34ab7/",
         "slug": "sputnik-8a91-d-1-1",
-        "name": "Sputnik 8A91 | D-1 1",
+        "name": "Sputnik 8A91 | D-1 12",
         "status": {
           "id": 4,
           "name": "Launch Failure",
